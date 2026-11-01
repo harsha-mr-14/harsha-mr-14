@@ -65,7 +65,7 @@
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | 📡 **[phantom-rescue-mesh-website](https://github.com/harsha-mr-14/phantom-rescue-mesh-website)** | Offline emergency communication system using Bluetooth, GPS, live maps, and SOS alerts for real-time victim-rescuer communication. | `JavaScript` `HTML/CSS` `Mesh Networking` |
-| 🤖 **[AI Chat bot](https://github.com/harsha-mr-14)** | Full-featured conversational AI assistant with autocorrect engine, interactive CLI, and sleek modern web UI. | `Python` `JavaScript` `HTML/CSS` |
+| 🤖 **[AI Chat bot](https://github.com/harsha-mr-14/ai-chatbot)** | Full-featured conversational AI assistant with autocorrect engine, interactive CLI, and sleek modern web UI. | `Python` `JavaScript` `HTML/CSS` |
 | 🌐 **[harsha-mr-14.github.io](https://github.com/harsha-mr-14/harsha-mr-14.github.io)** | Personal developer portfolio and project showcase hosted on GitHub Pages. | `Web` `GitHub Pages` |
 
 ---
